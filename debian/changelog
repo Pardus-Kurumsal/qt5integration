@@ -1,5 +1,6 @@
-qt5integration (0.2.1-1) unstable; urgency=low
+qt5integration (0.2.1-1) zesty; urgency=low
 
+  [ shuttle ]
   * Auto Version update.
 
- -- shuttle <shuttle@deepin.com>  Thu, 13 Jul 2017 05:15:39 +0000
+ -- lilongyu <leaeasy@gmail.com>  Thu, 03 Aug 2017 09:09:56 +0800
